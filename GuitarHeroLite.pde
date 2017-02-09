@@ -1,10 +1,5 @@
 /***************************************************************************** 
  *  Dependencies: StdAudio.java GuitarString.java
- * Thania Kendrick
- * thaniakendrick@utexas.edu
- * Tek345
- 
- Altered the code originally provided to me in the GuitarHeroLite file 
  ****************************************************************************/
 private boolean drawMe = false; 
 private int numInputs = 150;
